@@ -1,0 +1,182 @@
+[
+  {
+    "id": "428",
+    "name": "CANAL 6 | SV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDbiAbQH9HQhKhKYBUERiwu28l1Bh1G4r8g&usqp=CAU",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal6sv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
+    "id": "444527",
+    "name": "TCS",
+    "logo": "http://myplayente.dynns.com:80/images/d3ceabb64d23a4fa973aaf43b06e3421.png",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd",
+    "type": "live",
+    "rating": "",
+    "added": "1772464261"
+  },
+  {
+    "id": "444545",
+    "name": "Las Estrellas",
+    "logo": "http://mundo2.pro:80/images/1cbb731aaa086bfb5afe2ae3e5382698.png",
+    "category": "✅ (TV) MEXICO ✅",
+    "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1771981081"
+  },
+  {
+    "id": "444530",
+    "name": "SV || CANAL 7",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKOzG-9jziVOk3r1PAuq69kpBCnHz0tEe1A&s",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444530.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1771981081"
+  },
+  {
+    "id": "444551",
+    "name": "SV | TVO 23",
+    "logo": "https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444551.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1772464261"
+  },
+  {
+    "id": "444548",
+    "name": "SV| CANAL 19",
+    "logo": "https://cdn.mitvstatic.com/channels/sv_canal-19-nacional_m.png",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444548.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1772464261"
+  },
+  {
+    "id": "444554",
+    "name": "SV| CL∆R0 $P0®TS",
+    "logo": "https://static.epg.best/co/ClaroSports.co.png",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444554.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1771499401"
+  },
+  {
+    "id": "444542",
+    "name": "SV|| TABER TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpB3gUTaGHvEg1qlHZFTPLz1HAwpM9kixsTQ&s",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444542.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1772464261"
+  },
+  {
+    "id": "444539",
+    "name": "SV || CANAL 21",
+    "logo": "https://yt3.googleusercontent.com/wkIrKtrz87Pg01DDxKBUt3KvE_-VgrrZqndc5iLbPLz6Hph6nz7XLywsH24_pmyxz3aREP01=s900-c-k-c0x00ffffff-no-rj",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444539.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1771981081"
+  },
+  {
+    "id": "444536",
+    "name": "SV || CANAL 11",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3EzYqU4ahMdyoDiL2LmT4T-Tu9OEdJnhPQ&s",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444536.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1771499401"
+  },
+  {
+    "id": "444533",
+    "name": "SV || CANAL 8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZr_EO3tZ1dvAF2lNRBFQoaD1swDyOKTLkcQ&s",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/444533.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1772464261"
+  },
+  {
+    "id": "111241",
+    "name": "EL SALVADOR HQ | MEGAVISION CANAL 21",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/915241a77babf3e6fd51981e5bfa15fe.webp",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/111241.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1646407024"
+  },
+  {
+    "id": "111246",
+    "name": "SV HQ | TSport",
+    "logo": "",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/111246.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
+    "id": "50474",
+    "name": "SV| CANAL 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3wGS-_rBd7fIL5_L7KtZGTSmqh4ye7isEA&usqp=CAU",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/50474.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1773541741"
+  },
+  {
+    "id": "111244",
+    "name": "EL SALVADOR HQ | TVU",
+    "logo": "http://dplatino.net:8080/images/7de91a53c37061245770b5f423e4fde4.jpg",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/111244.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1646407024"
+  },
+  {
+    "id": "50478",
+    "name": "SV | CANAL 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTClcW-RV9KC2pCGrDYdpn-pV8inJDF1IsOGA&usqp=CAU",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/50478.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1773541741"
+  },
+  {
+    "id": "50481",
+    "name": "SV | | CANAL 12",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZcR7QJZRwP4BvqFxef45ZG3BkPAmgrzGkQ&usqp=CAU",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "http://mundo2.pro:80/live/Ndnrb948486263bsc/727etsbnd709/50481.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
+    "id": "76650",
+    "name": "SV | CANAL 10",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTz0ACngfUljOPmehUwGZXR9sk_pE2Y2dCKkQ&usqp=CAU",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://minochinos.com/stream/C5jap1Kx3zq2eKZ_2q4wkQ/hjkrhuihghfvu/1774259222/4530178/master.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1773541741"
+  }
+]
