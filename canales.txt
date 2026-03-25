@@ -154,7 +154,7 @@
     "name": "Canal 35",
     "logo": "http://myplayente.dynns.com:80/images/d3ceabb64d23a4fa973aaf43b06e3421.png",
     "category": "✅ (TV) El Salvador ✅",
-    "url": "https://signal.teleon.live/segments/canaltcssv?path=http%3A%2F%2F38.52.208.106%3A8000%2Fplay%2Fa02r%2F61279899.m3u8&token=free",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd",
     "type": "live",
     "rating": "",
     "added": "1771981081"
