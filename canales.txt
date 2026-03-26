@@ -124,7 +124,7 @@
     "name": "Canal 19",
     "logo": "https://assets.teleon.tv/180_webp/canal-19-sv.webp",
     "category": "✅ (TV) El Salvador ✅",
-    "url": "https://teleon.tv/stream/cG5wODQ3ODMwOXBucDg0.m3u8",
+    "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
     "type": "live",
     "rating": "",
     "added": "1771981081"
