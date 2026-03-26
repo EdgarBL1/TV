@@ -1,5 +1,15 @@
 [
   {
+    "id": "01",
+    "name": "CANAL 1 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.web",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
     "id": "02",
     "name": "CANAL 2 | SV",
     "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.webp",
@@ -30,6 +40,16 @@
     "added": "1772925661"
   },
   {
+    "id": "05",
+    "name": "CANAL 5 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/tcs-plus-sv.webp",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canaltcssv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
     "id": "06",
     "name": "CANAL 6 | SV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDbiAbQH9HQhKhKYBUERiwu28l1Bh1G4r8g&usqp=CAU",
@@ -55,6 +75,16 @@
     "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/azteca-guatemala.webp",
     "category": "✅ (TV) El GUATEMALA ✅",
     "url": "https://channel1-tva.duin.dev/tv/streaming/2/stream.m3u8",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
+    "id": "09",
+    "name": "CANAL 9 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.web",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free",
     "type": "live",
     "rating": "",
     "added": "1772925661"
@@ -120,6 +150,36 @@
     "added": "1771981081"
   },
   {
+    "id": "16",
+    "name": "CANAL 16 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.web",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
+    "id": "17",
+    "name": "CANAL 17 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.web",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
+    "id": "18",
+    "name": "CANAL 18 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.web",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
     "id": "19",
     "name": "Canal 19",
     "logo": "https://assets.teleon.tv/180_webp/canal-19-sv.webp",
@@ -130,6 +190,16 @@
     "added": "1771981081"
   },
   {
+    "id": "20",
+    "name": "CANAL 20 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.web",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
+  },
+  {
     "id": "21",
     "name": "Canal 21",
     "logo": "https://assets.teleon.tv/180_webp/canal-21-sv.webp",
@@ -138,6 +208,16 @@
     "type": "live",
     "rating": "",
     "added": "1771981081"
+  },
+  {
+    "id": "22",
+    "name": "CANAL 22 | SV",
+    "logo": "https://assets.teleon.tv/180_webp/canal-2-sv.web",
+    "category": "✅ (TV) El SALVADOR ✅",
+    "url": "https://signal.teleon.live/stream/canal2sv.m3u8?token=free",
+    "type": "live",
+    "rating": "",
+    "added": "1772925661"
   },
   {
     "id": "23",
